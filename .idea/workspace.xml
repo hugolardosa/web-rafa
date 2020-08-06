@@ -15,6 +15,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -24,7 +25,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596712636277</updated>
-      <workItem from="1596712640591" duration="3002000" />
+      <workItem from="1596712640591" duration="5059000" />
     </task>
     <servers />
   </component>
@@ -40,5 +41,9 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="548" y="266" key="Github.ShareDialog/0.0.1366.738@0.0.1366.738" timestamp="1596720565630" />
+    <state x="0" y="17" key="SettingsEditor" timestamp="1596722804499">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="0" y="17" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1596722804499" />
   </component>
 </project>

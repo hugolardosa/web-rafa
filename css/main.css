@@ -118,7 +118,7 @@ body {
 
 .page_links {
   position: relative; /* taken out of the normal flow of the document */
-  top: 55%; /* moved down by 50% of the screen height */
+  top: 57%; /* moved down by 50% of the screen height */
   transform: translateY(-50%); /* moved back up (Y axis) by half of its height to achieve the perfect center */
   width: 100%; /* needs to be defined to keep the default block behavior */
   text-align: center;
