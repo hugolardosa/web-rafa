@@ -125,6 +125,15 @@ body {
   margin: 0; /* again, for perfect center */
 }
 
+.country {
+  position: absolute; /* taken out of the normal flow of the document */
+  top: 5%; /* moved down by 50% of the screen height */
+  /*transform: translateY(-50%); /* moved back up (Y axis) by half of its height to achieve the perfect center */
+  width: 95%; /* needs to be defined to keep the default block behavior */
+  text-align: right;
+  margin: 10px;
+}
+
 .web_footer {
   position: absolute; /* taken out of the normal flow of the document */
   top: 90%; /* moved down by 50% of the screen height */
